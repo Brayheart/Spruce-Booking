@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a4b9efd8.css",
-    "main.js": "/my-app/static/js/main.28025dec.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/my-app/static/media/logo.49698328b047eb09160f28454a977994.svg",
-    "index.html": "/my-app/index.html",
-    "main.a4b9efd8.css.map": "/my-app/static/css/main.a4b9efd8.css.map",
-    "main.28025dec.js.map": "/my-app/static/js/main.28025dec.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/spruce-client/static/css/main.a4b9efd8.css",
+    "main.js": "/spruce-client/static/js/main.e21771df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spruce-client/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/spruce-client/static/media/logo.49698328b047eb09160f28454a977994.svg",
+    "index.html": "/spruce-client/index.html",
+    "main.a4b9efd8.css.map": "/spruce-client/static/css/main.a4b9efd8.css.map",
+    "main.e21771df.js.map": "/spruce-client/static/js/main.e21771df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spruce-client/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b9efd8.css",
-    "static/js/main.28025dec.js"
+    "static/js/main.e21771df.js"
   ]
 }
